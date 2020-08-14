@@ -1,0 +1,9 @@
+src/go/vendor/*
+vendor/*
+src/tmp/*
+postgres-data
+src/public/uploads/
+src/public/tmp/
+src/log/
+.env
+chat-src/node_modules/*
